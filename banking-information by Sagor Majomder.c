@@ -1,13 +1,6 @@
 /**
 ****This is a Banking System project to submit MR. A.K.M Mashuqur Rahman Mazumder
-****This project is Done by
-        1. Sagor Majomder - 191002138
-        2. Mehedi Hasan- 191002089
-        3. Fatema-Tuz-Zohra- 191002123
-        4. Abu Nayem - 191002274
-        5. Farzana Nusrat - 191002397
-
-*/
+****This project is Done by Sagor Majomder   */
 
 #include<stdio.h>
 #include<stdlib.h>
